@@ -1,11 +1,11 @@
 site_name: "OASIS Project Group Template"
 site_description: 'Central resource for ESIIL Summit teams'
 site_author: Ty Tuff
-site_url: "https://cu-esiil.github.io/Project_group_OASIS/"
+site_url: "https://cu-esiil.github.io/Summit_group_2026_1/"
 
 # Repository
 repo_name: link to repo
-repo_url: https://github.com/CU-ESIIL/Project_group_OASIS
+repo_url: https://github.com/CU-ESIIL/Summit_group_2026_1
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2024 University of Colorado Boulder · MIT License'
@@ -34,8 +34,8 @@ nav:
       - Instance to/from GitHub: instructions/push-to-github.md
       - Instance to/from persistent storage: instructions/save-to-persistent-storage.md
   - Links:
-      - Your code: https://github.com/CU-ESIIL/Project_group_OASIS/tree/main/code
-      - Your documentation: https://github.com/CU-ESIIL/Project_group_OASIS/tree/main/documentation
+      - Your code: https://github.com/CU-ESIIL/Summit_group_2026_1/tree/main/code
+      - Your documentation: https://github.com/CU-ESIIL/Summit_group_2026_1/tree/main/documentation
       - Your persistent storage: "https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_1?type=folder&resourceId=1993057e-8e90-11f0-b0fa-90e2ba675364"
 
 
