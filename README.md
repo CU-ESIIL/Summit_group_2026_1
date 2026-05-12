@@ -1,9 +1,16 @@
 # Project Group Template
 
-
 This repository is a template for ESIIL Project Groups.
 
 The website is built from the docs/ folder using MkDocs.
+
+## Project Questions
+
+Bea's Questions:
+
+    Guardrails: types of datasets, replication and samples sizes we're shooting for
+    Outouts: predictive accuracy? Which metrics?
+
 
 ## Preview locally
 
