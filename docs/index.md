@@ -44,7 +44,7 @@ public_mode_toggle: true
 
 | Name | Affiliation | Contact | Github | OrcID |
 |---|---|---|---|---|
-| Rachel Peterson | CU Boulder / NOAA | rachel.peterson-3@colorado.edu | https://github.com/r-petes |
+| Rachel Peterson | CU Boulder / NOAA | rachel.peterson-3@colorado.edu | https://github.com/r-petes | https://orcid.org/0009-0007-2048-8268|
 | Dylan Van Bramer | | | |
 | Bea Bock | NAU / USDA | bmb646@nau.edu / beabockm@gmail.com | https://github.com/beabock | https://orcid.org/0000-0003-2240-9360
 
