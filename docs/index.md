@@ -122,18 +122,19 @@ What a final product looks like:
 
 How can we situate environmental sustainability as a priority in environmental data science by encouraging the reporting of energy consumption as a performance metric?
 
-## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
+## Hypotheses/Intentions
 
+We expect that it is not the norm to include information about considering energy consumption or other sustainability metrics in reporting about methodological choices for environmental data science / analysis. 
 
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
 
 This matters because:
 
-...
+Environmental data scientists are uniquely positioned to be leaders in creating holistic decision-making processes incorporating sustainability metrics when using AI or other analytical tools. An assessment of current practices and a recommendation for tooling to enable this change can help lead the way in this shift.
 
 People who could use this:
 
-...
+Environmental data scientists. 
 
 ## Data sources we’re exploring 📣 { #data-exploration .oasis-report-out-section .oasis-report-out-day2 }
 
