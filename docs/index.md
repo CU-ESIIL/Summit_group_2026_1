@@ -72,13 +72,38 @@ public_mode_toggle: true
 
 Our team norms:
 
-- ...
-- ...
-- ...
+## Group Norms
 
-Our decision making strategy:
+AI - Keeping track of how we use it
+- keep track of prompts
+- keep all convos with LLMs in one thread when possible so we can easily keep track
+- Drafting full prose -- no using AI
+- Report environmental impact of our paper in terms of AI usage
 
-...
+Decision-making:
+- Voting
+- Spectrum of how much we agree/disagree - vetos are allowed
+
+Even turn-taking
+- Let people finish their sentences
+
+Ask questions
+- No stupid questions
+- What's shared here stays here, what's learned here stays here
+- Write down questions as often as possible
+
+Reflection points
+- Check-ins often on how we're feeling/what we're doing, going back to guiding questions
+
+Expectations
+- Clear about what we are doing and by when, what our capacities are
+
+Communication:
+- Slack channel
+- Turn on notifications (or whatever feels best for you)
+
+What a final product looks like
+- Being transparent about if we think something is not good enough
 
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
 
