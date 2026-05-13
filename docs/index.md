@@ -19,7 +19,7 @@ public_mode_toggle: true
     - If you turn off 'Instructions' then you will only see the page content for public display.
     
 
-# Team 1 Home: Investigating Environmental Transparency Assessments of AI Model Usage by Environmental Data Scientists, and Building Tools to Make those Assessments Possible
+# Team 1 Home: Investigating Environmental Transparency Assessments of AI Model Usage
 
 !!! note "Day 1 directions"
     Change the title to the name of your project.
