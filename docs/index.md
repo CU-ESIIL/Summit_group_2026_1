@@ -29,8 +29,6 @@ public_mode_toggle: true
     [ESIIL staff edit in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_1/edit/main/docs/index.md?plain=1#L28){ .md-button target="_blank" rel="noopener" }
     
 
-![Nature photo](assets/hero/film_mountains.jpg)
-
 !!! note "How to replace the image above"
     Upload an image that represents your project and welcome people to your page. 
     
@@ -49,6 +47,8 @@ public_mode_toggle: true
 | Rachel Peterson | CU Boulder / NOAA | rachel.peterson-3@colorado.edu | https://github.com/r-petes |
 | Dylan Van Bramer | | | |
 | Bea Bock | | | |
+
+![Nature photo](assets/hero/film_mountains.jpg)
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
@@ -71,8 +71,6 @@ public_mode_toggle: true
     [Edit Team Norms in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_1/edit/main/docs/index.md?plain=1#L87){ .md-button target="_blank" rel="noopener" }
 
 Our team norms:
-
-## Group Norms
 
 AI - Keeping track of how we use it:
 - keep track of prompts
