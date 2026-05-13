@@ -112,8 +112,7 @@ What a final product looks like:
 
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_1/edit/main/docs/index.md?plain=1#L106){ .md-button target="_blank" rel="noopener" }
 
-1. We plan to write a position paper proposing that researchers in the fields of environmental data science should incorporate consideration of the energy costs of modeling choices alongside other performance metrics.
-2. We create a prototype of a "calculator" for the most common analytical methods within the field to make this reporting process streamlined.
+We plan to write a position paper proposing that researchers in the fields of environmental data science should incorporate consideration of the energy costs of modeling choices alongside other performance metrics, including creating a prototype of a "calculator" for the most common analytical methods within the field to make this reporting process streamlined.
 
 ![Whiteboard image](assets/hero/day2_whiteboard.png)
 
