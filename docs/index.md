@@ -153,8 +153,6 @@ Example: Pourzangbar A, Franca MJ. How reliable are retrieval-augmented and stan
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
-### Structure
-
 Abstract:
 
 Intro:
@@ -200,6 +198,7 @@ Conclusion:
 
 Short term: 
 - Spend 20 minutes each going through 2-3 articles
+- Agree on definitions - environmental data science, models, anything else?
 - Nail down calculations
 - Tech stack for tool, dev plan (package or website)
 - Prepare final report back
