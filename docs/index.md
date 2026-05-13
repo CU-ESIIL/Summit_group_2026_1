@@ -62,8 +62,9 @@ public_mode_toggle: true
 
 | Name | Affiliation | Contact | Github |
 |---|---|---|---|
-| | | | |
-| | | | |
+| Rachel Peterson | CU Boulder / NOAA | rachel.peterson-3@colorado.edu | https://github.com/r-petes |
+| Dylan Van Bramer | | | |
+| Bea Bock | | | |
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
