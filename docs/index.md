@@ -29,7 +29,7 @@ public_mode_toggle: true
     [ESIIL staff edit in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_1/edit/main/docs/index.md?plain=1#L28){ .md-button target="_blank" rel="noopener" }
     
 
-![Team hero image](assets/hero/hero.png)
+![Nature photo](assets/hero/film_mountains.png)
 
 !!! note "How to replace the image above"
     Upload an image that represents your project and welcome people to your page. 
@@ -114,13 +114,10 @@ What a final product looks like
 
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_1/edit/main/docs/index.md?plain=1#L106){ .md-button target="_blank" rel="noopener" }
 
-![Whiteboard image](assets/hero/day2_whiteboard.png)
-
-
-Short term:
-
 1. We plan to write a perspective/position paper proposing that authors in the fields of environmental data science should incorporate consideration of the energy costs of modeling choices alongside other performance metrics.
 2. We create a prototype of a "calculator" for the most common analytical methods within the field to make this reporting process streamlined.
+
+![Whiteboard image](assets/hero/day2_whiteboard.png)
 
 
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
