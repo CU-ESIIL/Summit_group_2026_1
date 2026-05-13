@@ -25,7 +25,7 @@ Questions to answer:
 There's lots of literature about data center energy usage that explains that it's hard to come up with a standardized measure because you can draw the boundaries whereever. I think it's important to define things like:
 1. If you're fine-tuning a large model, are we counting the energy usage of only the fine-tuning? Or do we consider that the larger model itself took lots of energy to train? Same thing with API calls. _To me, this kind of suggests that putting this alongside performance metrics instead of as mandatory reporting could make more sense. With a direct acknowledgment that there is no perfect, standardized way to do this._
 3. Are we considering costs of data storage/hosting too? For huge data, that could be very relevant.
-  
+4. Are there ways to also include non-quantitative acknowledgments? Maybe for scope it makes sense to limit it to just environmental impacts that can be quantified, BUT it would be interesting to imagine some looser acknowledgments of transparency/cost/etc. that are all really relevant for reproducibility and democratizing science. 
 
 ## Project Questions
 
