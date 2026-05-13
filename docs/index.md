@@ -19,7 +19,7 @@ public_mode_toggle: true
     - If you turn off 'Instructions' then you will only see the page content for public display.
     
 
-# Team 1 Home: Investigating Environmental Transparency Assessments of AI Model Usage
+# Team 1 Home: Energy Usage Reporting as a Performance Metric in Environmental Data Science
 
 !!! tip "For ESIIL staff"
     Group Number: 1
@@ -116,13 +116,9 @@ What a final product looks like
 
 Short term:
 
-1. We propose that authors in the fields of environmental data science should report on the computational/energy costs associated with their modeling.
+1. We plan to write a perspective paper proposing that authors in the fields of environmental data science should incorporate consideration of the energy costs of modeling choices alongside other performance metrics.
 2. We create a prototype of a "calculator" for the most common analytical methods within the field to make this reporting process streamlined.
 
-Long term:
-
-- ...
-- ...
 
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
