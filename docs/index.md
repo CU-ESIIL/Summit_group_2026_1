@@ -199,8 +199,15 @@ Conclusion:
 ### Next Steps
 
 Short term: 
+- Spend 20 minutes each going through 2-3 articles
+- Nail down calculations
+- Tech stack for tool, dev plan (package or website)
+- Prepare final report back
 
 Long term: 
+- Paper draft
+- Develop tool
+- Be happy
 
 !!! note "Day 3 Tasks"
     Sythesis: highlight 2-3 visuals that tell the story; keep text crisp. Practice a 6-minute walkthrough of the homepage. Why -> Questions -> Data/Methods -> Findings -> Next 
