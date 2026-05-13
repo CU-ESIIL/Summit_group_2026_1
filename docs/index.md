@@ -24,14 +24,14 @@ public_mode_toggle: true
 !!! note "Day 1 directions"
     Change the title to the name of your project.
 
-    [Edit Day 1 setup in Markdown](https://github.com/CU-ESIIL/Project_group_OASIS/edit/main/docs/index.md?plain=1#L21){ .md-button target="_blank" rel="noopener" }
+    [Edit Day 1 setup in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_1/edit/main/docs/index.md?plain=1#L21){ .md-button target="_blank" rel="noopener" }
 
 !!! tip "For ESIIL staff"
     Group Number: 1
     
     Breakout Room #: S240
 
-    [ESIIL staff edit in Markdown](https://github.com/CU-ESIIL/Project_group_OASIS/edit/main/docs/index.md?plain=1#L28){ .md-button target="_blank" rel="noopener" }
+    [ESIIL staff edit in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_1/edit/main/docs/index.md?plain=1#L28){ .md-button target="_blank" rel="noopener" }
     
 
 ![Team hero image](assets/hero/hero.png)
@@ -42,7 +42,7 @@ public_mode_toggle: true
     Upload your own image to `docs/assets/hero/` and replace the file named `hero.png`. Use a wide image if you can, then refresh the site preview to check how it looks.
     Keep the file path `docs/assets/hero/hero.png` if you want the Markdown above to keep working.
 
-    [Open image folder for changing image](https://github.com/CU-ESIIL/Project_group_OASIS/tree/main/docs/assets/hero){ .md-button target="_blank" rel="noopener" }
+    [Open image folder for changing image](https://github.com/CU-ESIIL/Summit_group_2026_1/tree/main/docs/assets/hero){ .md-button target="_blank" rel="noopener" }
 
 
 [See a completed example](example.md){ .md-button }
@@ -58,7 +58,7 @@ public_mode_toggle: true
     |---|---|
     | ![Name card prompts for name, institution, area of expertise, research difference, and questions](assets/team/name-card-prompts.png) | ![Follow-up notes card with space for names and follow-up ideas](assets/team/name-card-followups.png) |
 
-    [Edit People in Markdown](https://github.com/CU-ESIIL/Project_group_OASIS/edit/main/docs/index.md?plain=1#L63){ .md-button target="_blank" rel="noopener" }
+    [Edit People in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_1/edit/main/docs/index.md?plain=1#L63){ .md-button target="_blank" rel="noopener" }
 
 | Name | Affiliation | Contact | Github |
 |---|---|---|---|
@@ -83,7 +83,7 @@ public_mode_toggle: true
     |---|
     | ![Gradients of agreement scale for Summit teams](assets/hero/norms.png) | 
 
-    [Edit Team Norms in Markdown](https://github.com/CU-ESIIL/Project_group_OASIS/edit/main/docs/index.md?plain=1#L87){ .md-button target="_blank" rel="noopener" }
+    [Edit Team Norms in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_1/edit/main/docs/index.md?plain=1#L87){ .md-button target="_blank" rel="noopener" }
 
 Our team norms:
 
@@ -102,7 +102,7 @@ Our decision making strategy:
 
     Afternoon Focus: try a few datasets and analyses. Keep it visual, keep it simple. Update the site to reflect what you test. 
 
-    [Edit content below here in Markdown](https://github.com/CU-ESIIL/Project_group_OASIS/edit/main/docs/index.md?plain=1#L106){ .md-button target="_blank" rel="noopener" }
+    [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_1/edit/main/docs/index.md?plain=1#L106){ .md-button target="_blank" rel="noopener" }
 
 Short term:
 
@@ -163,7 +163,7 @@ Promising data sources:
 !!! note "methods"
     Add 2-4 methods/technologies we're testing (stats, models, viz).
 
-[View shared code](https://github.com/CU-ESIIL/Project_group_OASIS/tree/main/code){ .md-button }
+[View shared code](https://github.com/CU-ESIIL/Summit_group_2026_1/tree/main/code){ .md-button }
 
 Methods/technologies we are testing:
 
@@ -192,7 +192,7 @@ Long term:
 !!! note "Day 3 Tasks"
     Sythesis: highlight 2-3 visuals that tell the story; keep text crisp. Practice a 6-minute walkthrough of the homepage. Why -> Questions -> Data/Methods -> Findings -> Next 
 
-    [Edit content below here in Markdown](https://github.com/CU-ESIIL/Project_group_OASIS/edit/main/docs/index.md?plain=1#L203){ .md-button target="_blank" rel="noopener" }
+    [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_1/edit/main/docs/index.md?plain=1#L203){ .md-button target="_blank" rel="noopener" }
 
 
 ## Team Photo { #team-photo }
@@ -239,6 +239,6 @@ Who should see this next
 
 If you use these materials, please cite:
 
-Summit Team. (2026). *Project Group OASIS — Innovation Summit 2026*. https://github.com/CU-ESIIL/Project_group_OASIS
+Summit Team. (2026). *Summit_group_2026_1 — Innovation Summit 2026*. https://github.com/CU-ESIIL/Summit_group_2026_1
 
 License: CC-BY-4.0 unless noted. 
