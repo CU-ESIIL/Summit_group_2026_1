@@ -28,4 +28,7 @@ Other metrics:
 - Assessment of existing tools for metrics (see above similar tools section) 
 - Argument about methodology reproducing structures! Some sort of ethical argument here. 
 - Goal is not perfection (perfect tools to define transparency and sustainability) but rather transparency on the part of the researcher in terms of considerations taken and effort to minimize harm (?)
-- Emphasis on use as an evaluation metric / in methodology vs. a reporting requirement. 
+- Emphasis on use as an evaluation metric / in methodology vs. a reporting requirement.
+
+### Day 3 questions: 
+- Are these categories mutually exclusive? Specifically data types but what about the others? What are we attempting to inform with them?
