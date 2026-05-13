@@ -114,14 +114,18 @@ What a final product looks like
 
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_1/edit/main/docs/index.md?plain=1#L106){ .md-button target="_blank" rel="noopener" }
 
+![Whiteboard image](assets/hero/day2_whiteboard.jpg)
+
+
 Short term:
 
-1. We plan to write a perspective paper proposing that authors in the fields of environmental data science should incorporate consideration of the energy costs of modeling choices alongside other performance metrics.
+1. We plan to write a perspective/position paper proposing that authors in the fields of environmental data science should incorporate consideration of the energy costs of modeling choices alongside other performance metrics.
 2. We create a prototype of a "calculator" for the most common analytical methods within the field to make this reporting process streamlined.
 
 
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
+How can we situate environmental sustainability as a priority in environmental data science by encouraging the reporting of energy consumption as a performance metric?
 
 ## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
 
@@ -149,10 +153,8 @@ People who could use this:
 
 Promising data sources:
 
-- [Data source 1](#): ...
-- [Data source 2](#): ...
-- [Data source 3](#): ...
-- [Data source 4](#): ...
+- Investigating the norms in current reporting in the Environmental Data Science journal, with 1-2 as case studies.
+- Example: Pourzangbar A, Franca MJ. How reliable are retrieval-augmented and standard ChatGPT models to support flood susceptibility mapping? Environmental Data Science. 2026;5:e10. doi:10.1017/eds.2026.10037
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
