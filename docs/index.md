@@ -130,11 +130,11 @@ We expect that it is not the norm to include information about considering energ
 
 This matters because:
 
-Environmental data scientists are uniquely positioned to be leaders in creating holistic decision-making processes incorporating sustainability metrics when using AI or other analytical tools. An assessment of current practices and a recommendation for tooling to enable this change can help lead the way in this shift.
+Environmental data scientists are uniquely positioned to be leaders in creating holistic decision-making processes incorporating sustainability metrics when using AI or other analytical tools. 
 
 People who could use this:
 
-Environmental data scientists. 
+Environmental data scientists, or scientists in other domains concerned with holistic research method decision-making.  
 
 ## Data sources we’re exploring 📣 { #data-exploration .oasis-report-out-section .oasis-report-out-day2 }
 
@@ -147,8 +147,9 @@ Environmental data scientists.
 
 Promising data sources:
 
-- Investigating the norms in current reporting in the Environmental Data Science journal, with 1-2 as case studies.
-- Example: Pourzangbar A, Franca MJ. How reliable are retrieval-augmented and standard ChatGPT models to support flood susceptibility mapping? Environmental Data Science. 2026;5:e10. doi:10.1017/eds.2026.10037
+- Investigating the norms in current reporting in the Environmental Data Science journal, with 1-2 as case studies with the tool.
+
+Example: Pourzangbar A, Franca MJ. How reliable are retrieval-augmented and standard ChatGPT models to support flood susceptibility mapping? Environmental Data Science. 2026;5:e10. doi:10.1017/eds.2026.10037
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
@@ -157,7 +158,7 @@ Promising data sources:
 Abstract:
 
 Intro:
-- Defining EDS
+- Defining environmental data science (EDS)
 - Explaining why EDS is uniquely positioned to be a leader - encouraging methodologies to reflect environmental priorities!
 
 Related work:
