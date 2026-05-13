@@ -19,7 +19,7 @@ public_mode_toggle: true
     - If you turn off 'Instructions' then you will only see the page content for public display.
     
 
-# Team 1 Home: Energy Usage Reporting as a Performance Metric in Environmental Data Science
+# Team 1 Home: Energy Usage as a Performance Metric in Environmental Data Science
 
 !!! tip "For ESIIL staff"
     Group Number: 1
@@ -74,7 +74,7 @@ Our team norms:
 
 ## Group Norms
 
-AI - Keeping track of how we use it
+AI - Keeping track of how we use it:
 - keep track of prompts
 - keep all convos with LLMs in one thread when possible so we can easily keep track
 - Drafting full prose -- no using AI
@@ -84,25 +84,25 @@ Decision-making:
 - Voting
 - Spectrum of how much we agree/disagree - vetos are allowed
 
-Even turn-taking
+Even turn-taking:
 - Let people finish their sentences
 
-Ask questions
+Ask questions:
 - No stupid questions
-- What's shared here stays here, what's learned here stays here
+- What's shared here stays here, what's learned here leaves here
 - Write down questions as often as possible
 
-Reflection points
+Reflection points:
 - Check-ins often on how we're feeling/what we're doing, going back to guiding questions
 
-Expectations
+Expectations:
 - Clear about what we are doing and by when, what our capacities are
 
 Communication:
 - Slack channel
 - Turn on notifications (or whatever feels best for you)
 
-What a final product looks like
+What a final product looks like:
 - Being transparent about if we think something is not good enough
 
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
@@ -114,7 +114,7 @@ What a final product looks like
 
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_1/edit/main/docs/index.md?plain=1#L106){ .md-button target="_blank" rel="noopener" }
 
-1. We plan to write a perspective/position paper proposing that authors in the fields of environmental data science should incorporate consideration of the energy costs of modeling choices alongside other performance metrics.
+1. We plan to write a position paper proposing that researchers in the fields of environmental data science should incorporate consideration of the energy costs of modeling choices alongside other performance metrics.
 2. We create a prototype of a "calculator" for the most common analytical methods within the field to make this reporting process streamlined.
 
 ![Whiteboard image](assets/hero/day2_whiteboard.png)
