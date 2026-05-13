@@ -152,12 +152,7 @@ Promising data sources:
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
-!!! note "methods"
-    Add 2-4 methods/technologies we're testing (stats, models, viz).
-
-[View shared code](https://github.com/CU-ESIIL/Summit_group_2026_1/tree/main/code){ .md-button }
-
-### Structure of paper
+### Structure
 
 Abstract:
 
@@ -184,6 +179,11 @@ Use our tool, report back. Post-hoc analysis on existing papers?
 Discussion:
 
 Conclusion:
+
+!!! note "methods"
+    Add 2-4 methods/technologies we're testing (stats, models, viz).
+
+[View shared code](https://github.com/CU-ESIIL/Summit_group_2026_1/tree/main/code){ .md-button }
 
 
 ### Challenges identified
