@@ -19,7 +19,7 @@ public_mode_toggle: true
     - If you turn off 'Instructions' then you will only see the page content for public display.
     
 
-# Team 1 Home: Energy Usage as a Performance Metric in Environmental Data Science
+# Team 1 Home: Energy Usage Reporting as a Performance Metric in Environmental Data Science
 
 !!! tip "For ESIIL staff"
     Group Number: 1
@@ -157,6 +157,22 @@ Promising data sources:
     Add 2-4 methods/technologies we're testing (stats, models, viz).
 
 [View shared code](https://github.com/CU-ESIIL/Summit_group_2026_1/tree/main/code){ .md-button }
+
+### Structure of paper
+Abstract:
+Intro:
+- Defining EDS
+- Explaining why EDS is uniquely positioned to be a leader
+Related work:
+- Energy monitoring of ML / LLM models 
+Scoping review:
+- Determine common analytical methods & performance metrics to determine those methods used among EDS published papers - ~180 published
+Tool:
+- Discuss methods for tool development
+- Discuss design decisions
+Case studies:
+Discussion:
+Conclusion:
 
 Methods/technologies we are testing:
 
