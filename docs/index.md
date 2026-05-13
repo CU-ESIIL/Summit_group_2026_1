@@ -106,19 +106,6 @@ Long term:
 
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
-### Questions to answer:
-- What do we mean by "environmental data science"? Do we define this by venue/journal? By content? By author affiliation?
-- What methods do we want to include in our calculator?
-- Do we count genAI assistance as a part of the calculation?
-- _Is this more along the lines of a data availability statement/AI reporting OR something that should be reported alongside metrics like R_2 in a results section?_
-  I think this is a major distinction that will impact our lit review and framing
-- Is this more of a perspective piece?
-
-### Questions about calculator boundaries:
-1. There's lots of literature about data center energy usage that explains that it's hard to come up with a standardized measure because you can draw the boundaries whereever. I think it's important to define things like:
-2. If you're fine-tuning a large model, are we counting the energy usage of only the fine-tuning? Or do we consider that the larger model itself took lots of energy to train? Same thing with API calls. _To me, this kind of suggests that putting this alongside performance metrics instead of as mandatory reporting could make more sense. With a direct acknowledgment that there is no perfect, standardized way to do this._
-3. Are we considering costs of data storage/hosting too? For huge data, that could be very relevant. 
-4. Are there ways to also include non-quantitative acknowledgments? Maybe for scope it makes sense to limit it to just environmental impacts that can be quantified, BUT it would be interesting to imagine some looser acknowledgments of transparency/cost/etc. that are all really relevant for reproducibility and democratizing science.
 
 ## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
 
