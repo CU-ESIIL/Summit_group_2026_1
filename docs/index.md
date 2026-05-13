@@ -152,32 +152,30 @@ Example: Pourzangbar A, Franca MJ. How reliable are retrieval-augmented and stan
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
-### Sections
-#### Abstract:
 
-#### Intro:
+Intro:
 - Defining environmental data science (EDS)
 - Explaining why EDS is uniquely positioned to be a leader - encouraging methodologies to reflect environmental priorities!
 
-#### Related work:
+Related work:
 - Energy monitoring of ML / LLM models 
 
-#### Scoping review:
+Scoping review:
 - Determine common analytical methods & performance metrics to determine those methods used among EDS published papers - ~180 published
 - Show that this is not currently the norm
 
-#### Tool:
+Tool:
 - Discuss methods for tool development
 - Discuss design decisions
 
-#### Case studies:
+Case studies:
 1. Image task
 2. Tabular task
 Use our tool, report back. Post-hoc analysis on existing papers?
 
-#### Discussion:
+Discussion:
 
-#### Conclusion:
+Conclusion:
 
 !!! note "methods"
     Add 2-4 methods/technologies we're testing (stats, models, viz).
