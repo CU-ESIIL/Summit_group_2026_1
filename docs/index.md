@@ -162,32 +162,28 @@ Abstract:
 
 Intro:
 - Defining EDS
-- Explaining why EDS is uniquely positioned to be a leader
+- Explaining why EDS is uniquely positioned to be a leader - encouraging methodologies to reflect environmental priorities!
 
 Related work:
 - Energy monitoring of ML / LLM models 
 
 Scoping review:
 - Determine common analytical methods & performance metrics to determine those methods used among EDS published papers - ~180 published
+- Show that this is not currently the norm
 
 Tool:
 - Discuss methods for tool development
 - Discuss design decisions
 
 Case studies:
+1. Image task
+2. Tabular task
+Use our tool, report back. Post-hoc analysis on existing papers?
 
 Discussion:
 
 Conclusion:
 
-Methods/technologies we are testing:
-
-| Method or technology | What we tested | Early note |
-|---|---|---|
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
 
 ### Challenges identified
 
