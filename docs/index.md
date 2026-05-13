@@ -29,7 +29,7 @@ public_mode_toggle: true
     [ESIIL staff edit in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_1/edit/main/docs/index.md?plain=1#L28){ .md-button target="_blank" rel="noopener" }
     
 
-![Nature photo](assets/hero/film_mountains.png)
+![Nature photo](assets/hero/film_mountains.jpg)
 
 !!! note "How to replace the image above"
     Upload an image that represents your project and welcome people to your page. 
