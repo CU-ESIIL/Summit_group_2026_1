@@ -94,11 +94,6 @@ Short term:
 1. We propose that authors in the fields of environmental data science should report on the computational/energy costs associated with their modeling.
 2. We create a prototype of a "calculator" for the most common analytical methods within the field to make this reporting process streamlined.
 
-Methods:
-
-1. "Literature review" to show that this is an issue. Demonstrating that it's not currently the norm. This could be a true review, or more of a narrative analysis demonstrating that this is an issue and explaining our rationale for why we think people should care.
-2. Calculator prototype.
-
 Long term:
 
 - ...
