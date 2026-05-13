@@ -114,7 +114,7 @@ What a final product looks like
 
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_1/edit/main/docs/index.md?plain=1#L106){ .md-button target="_blank" rel="noopener" }
 
-![Whiteboard image](assets/hero/day2_whiteboard.jpg)
+![Whiteboard image](assets/hero/day2_whiteboard.png)
 
 
 Short term:
