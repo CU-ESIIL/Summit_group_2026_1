@@ -1,2 +1,26 @@
-EDS definition from the journal EDS: "advances in data-driven methods to understand and predict environmental processes and impacts, and their patterns in space and time. The methodological scope is defined broadly to encompass artificial intelligence (including machine learning, deep learning, and computer vision), statistics, data mining, and econometrics, as well as hybrid approaches that combine data-driven methods with physical process-based modeling"
+EDS definition from the journal EDS, in terms of what types of research it accepts: "advances in data-driven methods to understand and predict environmental processes and impacts, and their patterns in space and time. The methodological scope is defined broadly to encompass artificial intelligence (including machine learning, deep learning, and computer vision), statistics, data mining, and econometrics, as well as hybrid approaches that combine data-driven methods with physical process-based modeling"
 https://www.cambridge.org/core/journals/environmental-data-science/information/about-this-journal
+
+Costs of retraining a model: https://arxiv.org/abs/2412.15511
+
+Cost analysis of different ML Methods: https://dl.acm.org/doi/10.1007/978-3-032-11402-0_13
+
+Benchmarking Training Emissions of Regression Models for Vehicle CO2 Prediction
+M. Turhan, M. Emeç, and 1 more
+Sustainability, 2026
+https://www.mdpi.com/2071-1050/18/6/2830
+- Across models, test performance ranged from R2 = 0.72 to 0.99, yet training emissions varied by four orders of magnitude, from 0.001 g CO2 (simple linear regression) to 2.3 g CO2 (XGBoost).
+- Although XGBoost achieved the highest accuracy (R2 = 0.9947), it emitted approximately 2300× more CO2 than regularised polynomial linear models for only a 0.39-point gain in R2. Pareto analysis identifies Lasso and Ridge regression with degree-4 polynomial features as sustainability-optimal, reaching R2 = 0.9908 at ~0.004 g CO2.
+- XGBoost emitted about 2300× more CO2 than regularized polynomial linear models for only a 0.39-point gain in fit.
+
+10.11159/iceptp24.151
+- inear regression used only 1/2840th of the training power and 1/126th of the prediction power of a deep-learning competitor
+
+https://arxiv.org/abs/2104.10350
+- choice of DNN, datacenter, and processor could change carbon footprint by 100–1000×
+
+ML Calculator: https://mlco2.github.io/impact/
+- Inputs: Choose your hardware, runtime and cloud provider
+
+A bunch of different calculators: https://guides.lib.umich.edu/c.php?g=1459709&p=11107909
+
