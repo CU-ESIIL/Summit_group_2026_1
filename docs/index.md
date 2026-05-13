@@ -42,11 +42,11 @@ public_mode_toggle: true
 
 ## People { #people .oasis-report-out-context }
 
-| Name | Affiliation | Contact | Github |
-|---|---|---|---|
+| Name | Affiliation | Contact | Github | OrcID |
+|---|---|---|---|---|
 | Rachel Peterson | CU Boulder / NOAA | rachel.peterson-3@colorado.edu | https://github.com/r-petes |
 | Dylan Van Bramer | | | |
-| Bea Bock | | | |
+| Bea Bock | NAU / USDA | bmb646@nau.edu / beabockm@gmail.com | https://github.com/beabock | https://orcid.org/0000-0003-2240-9360
 
 ![Nature photo](assets/hero/film_mountains.jpg)
 
