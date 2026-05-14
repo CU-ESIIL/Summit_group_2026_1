@@ -144,28 +144,15 @@ Environmental data scientists, or scientists in other domains concerned with hol
 
 ![Environmental Data Science Journal Homepage](assets/hero/EDS.png)
 
-Promising data sources:
+Investigating the norms in current reporting in the Environmental Data Science journal, with 1-2 as case studies with the tool. 
+This includes a literature review of existing Environmental Data Science journal articles using an agentic repository workflow to assess trends in analytical methods, data types, and reported performance metrics including energy consumption of chosen analytical methods. 
+This review reinforces the significance of our work to develop a tool to assist in reporting of energy consumption as a performance metric, and also informs the functionalities that we tailor this tool for.
 
-- Investigating the norms in current reporting in the Environmental Data Science journal, with 1-2 as case studies with the tool.
-
-Example: Pourzangbar A, Franca MJ. How reliable are retrieval-augmented and standard ChatGPT models to support flood susceptibility mapping? Environmental Data Science. 2026;5:e10. doi:10.1017/eds.2026.10037
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
 
-Intro: Defining environmental data science (EDS), explaining why EDS is uniquely positioned to be a leader - encouraging methodologies to reflect environmental priorities!
 
-Related work: Energy monitoring of ML / LLM models 
-
-Scoping review: Determine common analytical methods & performance metrics to determine those methods used among EDS published papers - ~180 published, show that this is not currently the norm
-
-Tool: Discuss methods for tool development, discuss design decisions
-
-Case studies: Image task, Tabular task, Use our tool, report back. Post-hoc analysis on existing papers?
-
-Discussion: ?
-
-Conclusion: ?
 
 !!! note "methods"
     Add 2-4 methods/technologies we're testing (stats, models, viz).
