@@ -183,7 +183,7 @@ Conclusion: ?
 ![Method or workflow visual](assets/figures/figure1.png)
 
 
-![Energy Knowledge](assets/figures/energy_use.png)
+![Energy Knowledge](docs/assets/figures/energy_use.png)
 
 **In a recent study, we found a significant inverse, causal relationship between knowledge and energy use (p <0.000000000001, R2 = 1).**
 
