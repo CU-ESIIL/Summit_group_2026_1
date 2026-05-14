@@ -187,8 +187,9 @@ Long term:
 Literature Review
 
 We've conducted a literature review of existing Environmental Data Science journal articles using an agentic repository workflow to assess trends in analytical methods, data types, and reported performance metrics including whether each article references the energy consumption of their analytical method of choice.
-This review reinforces the significance of our work to develop a tool to assist in reporting of energy consumption as a performance metric, and also informs how we can tailor the tool to best suit the environmental data science community.
 
+Our preliminary literature review demonstrates that energy consumption is not commonly reported in environmental data science articles, however hardware and other performance reporting metrics are often reported.
+This review reinforces the significance of our work to develop a tool to assist in reporting of energy consumption as a performance metric, and also informs how we can tailor the tool to best suit the environmental data science community.
 
 ![Example JSON output](assets/images/json_example.png)
 
