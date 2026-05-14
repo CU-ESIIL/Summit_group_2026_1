@@ -196,11 +196,11 @@ We've limited our review in scope to the Environmental Data Science journal, but
 ![Example JSON output](assets/images/json_example.png)
 
 
-Logical Diagram and Structure of Calculator Tool
+Logical Diagram and Example Output of Calculator Tool
 
 ![Logical Flow Diagram](assets/images/logical_flow.jpeg)
 
-Tool Demo
+![Tool Example](assets/images/tool_example.png)
 
 ...
 
