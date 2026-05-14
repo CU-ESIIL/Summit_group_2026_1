@@ -23,14 +23,15 @@ See **TASKS.md** for a plain-English description of the pipeline.
 ```
 scripts/                          Helper scripts
 inputs/                           Original CSV file with all journals published in Environmental Data Science journal as of 5/13/26.
-outputs/                          Output CSV file with analyzed examples/                         Examples of output CSV file expectations. Also contains an errors.log file for errors.
+outputs/                          Output CSV file with analyzed data. Output JSON file that was used as intermediate to convert to CSV.
+examples/                         Examples of output CSV file expectations. Also contains an errors.log file for errors.
 ```
 
 ---
 
 ## Input Requirements
 
-Text files for extraction are located at /home/jovyan/data-store/home/shared/esiil/Innovation_Summit_2026/Group_1/extracted_text/
+Text files for extraction are located at /home/jovyan/data-store/Summit_group_2026_1/code/llm-agent-workspace/test
 
 ---
 
