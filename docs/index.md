@@ -144,9 +144,7 @@ Environmental data scientists, or scientists in other domains concerned with hol
 
 ![Environmental Data Science Journal Homepage](assets/hero/EDS.png)
 
-Investigating the norms in current reporting in the Environmental Data Science journal, with 1-2 as case studies with the tool. 
-This includes a literature review of existing Environmental Data Science journal articles using an agentic repository workflow to assess trends in analytical methods, data types, and reported performance metrics including energy consumption of chosen analytical methods. 
-This review reinforces the significance of our work to develop a tool to assist in reporting of energy consumption as a performance metric, and also informs the functionalities that we tailor this tool for.
+Investigating the norms in current reporting in the Environmental Data Science journal, with 1-2 as case studies with the tool.
 
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
@@ -186,24 +184,29 @@ Long term:
 
 ## Findings at a glance 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
 
-Headline 1 — what, where, how much
+Literature Review
 
-...
+![Energy Knowledge](assets/figures/energy_use.png)
 
-Headline 2 — change/trend/contrast
+We've conducted a literature review of existing Environmental Data Science journal articles using an agentic repository workflow to assess trends in analytical methods, data types, and reported performance metrics including whether each article references the energy consumption of their analytical method of choice.
+This review reinforces the significance of our work to develop a tool to assist in reporting of energy consumption as a performance metric, and also informs how we can tailor the tool to best suit the environmental data science community.
 
-...
+We've limited our review in scope to the Environmental Data Science journal, but since we've built this agentic repository workflow it is a scalable approach for assessment of other journals as well.
 
-Headline 3 — implication for practice or policy
+![Example JSON output](assets/images/json_example.png)
+
+
+Logical Diagram and Structure of Calculator Tool
+
+![Logical Flow Diagram](assets/images/logical_flow.jpeg)
+
+Tool Demo
 
 ...
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
 
-![Logical Flow Diagram](assets/images/logical_flow.jpeg)
-
-![Energy Knowledge](assets/figures/energy_use.png)
 
 **In a recent study, we found a significant inverse, causal relationship between knowledge and energy use (p <0.000000000001, R2 = 1).**
 
