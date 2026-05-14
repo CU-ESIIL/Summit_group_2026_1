@@ -167,9 +167,9 @@ This review reinforces the significance of our work to develop a tool to assist 
 
 ### Visuals
 
-![Logical Flow Diagram](docs/assets/images/logical_flow.jpeg)
+![Logical Flow Diagram](assets/images/logical_flow.jpeg)
 
-![Energy Knowledge](docs/assets/figures/energy_use.png)
+![Energy Knowledge](assets/figures/energy_use.png)
 
 **In a recent study, we found a significant inverse, causal relationship between knowledge and energy use (p <0.000000000001, R2 = 1).**
 
