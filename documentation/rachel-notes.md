@@ -30,5 +30,6 @@ Other metrics:
 - Goal is not perfection (perfect tools to define transparency and sustainability) but rather transparency on the part of the researcher in terms of considerations taken and effort to minimize harm (?)
 - Emphasis on use as an evaluation metric / in methodology vs. a reporting requirement.
 
-### Day 3 questions: 
+### Day 3: 
 - Are these categories mutually exclusive? Specifically data types but what about the others? What are we attempting to inform with them?
+- Hardware as proxy for sustainability?
