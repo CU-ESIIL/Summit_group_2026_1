@@ -147,15 +147,6 @@ Environmental data scientists, or scientists in other domains concerned with hol
 Investigating the norms in current reporting in the Environmental Data Science journal, with 1-2 as case studies with the tool.
 
 
-## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
-
-### Challenges identified
-
-- ...
-- ...
-
-### Visuals
-
 ### Next Steps
 
 Short term: 
