@@ -151,18 +151,12 @@ This review reinforces the significance of our work to develop a tool to assist 
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
-Challenges identified
+### Challenges identified
 
 - ...
 - ...
 
-Visuals
-
-![Logical Flow Diagram](assets/images/logical_flow.jpeg)
-
-![Energy Knowledge](assets/figures/energy_use.png)
-
-**In a recent study, we found a significant inverse, causal relationship between knowledge and energy use (p <0.000000000001, R2 = 1).**
+### Visuals
 
 ### Next Steps
 
@@ -206,9 +200,13 @@ Headline 3 — implication for practice or policy
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
-![Story visual](assets/figures/main_result.png)
 
-*Visual 1: the main pattern or output we want people to remember.*
+![Logical Flow Diagram](assets/images/logical_flow.jpeg)
+
+![Energy Knowledge](assets/figures/energy_use.png)
+
+**In a recent study, we found a significant inverse, causal relationship between knowledge and energy use (p <0.000000000001, R2 = 1).**
+
 
 ## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
 
