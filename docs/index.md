@@ -220,7 +220,7 @@ Long term:
 
 - We plan to submit this for the September 4th submission deadline for the Environmental Data Science Journal.
 
-Who should see this next
+Who should see this next?
 
 - We would love for this to be a tool that many researchers can use in their work and alongside other performance metrics to assess analytical tools holistically!
 
