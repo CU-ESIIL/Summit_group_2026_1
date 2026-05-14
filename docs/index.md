@@ -180,6 +180,8 @@ Conclusion: ?
 
 ### Visuals
 
+![Logical Flow Diagram](docs/assets/images/logical_flow.jpeg)
+
 ![Energy Knowledge](docs/assets/figures/energy_use.png)
 
 **In a recent study, we found a significant inverse, causal relationship between knowledge and energy use (p <0.000000000001, R2 = 1).**
