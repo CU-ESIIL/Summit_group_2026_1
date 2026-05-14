@@ -186,12 +186,9 @@ Long term:
 
 Literature Review
 
-![Energy Knowledge](assets/figures/energy_use.png)
-
 We've conducted a literature review of existing Environmental Data Science journal articles using an agentic repository workflow to assess trends in analytical methods, data types, and reported performance metrics including whether each article references the energy consumption of their analytical method of choice.
 This review reinforces the significance of our work to develop a tool to assist in reporting of energy consumption as a performance metric, and also informs how we can tailor the tool to best suit the environmental data science community.
 
-We've limited our review in scope to the Environmental Data Science journal, but since we've built this agentic repository workflow it is a scalable approach for assessment of other journals as well.
 
 ![Example JSON output](assets/images/json_example.png)
 
@@ -202,12 +199,11 @@ Logical Diagram and Example Output of Calculator Tool
 
 ![Tool Example](assets/images/tool_example.png)
 
-...
 
 ## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
 
 
-
+![Energy Knowledge](assets/figures/energy_use.png)
 **In a recent study, we found a significant inverse, causal relationship between knowledge and energy use (p <0.000000000001, R2 = 1).**
 
 
@@ -215,15 +211,18 @@ Logical Diagram and Example Output of Calculator Tool
 
 Short term:
 
-- ...
+- We've started with a small sample size for proof of concept in our literature review, but plan to assess all articles published in the EDS journal. 
+- We've currently limited our review in scope to the Environmental Data Science journal, but since we've built this agentic repository workflow it is a scalable approach for assessment of other journals as well.
+- We will continue development work on the energy consumption analysis tool. 
+
 
 Long term:
 
-- ...
+- We plan to submit this for the September 4th submission deadline for the Environmental Data Science Journal.
 
 Who should see this next
 
-- ...
+- We would love for this to be a tool that many researchers can use in their work and alongside other performance metrics to assess analytical tools holistically!
 
 ## Cite & Reuse { #cite-reuse }
 
