@@ -37,11 +37,11 @@ Text files for extraction are located at /home/jovyan/data-store/home/shared/esi
 ## Output Requirements
 
 
-One row per file: Create a separate line in an output CSV file for each text file (article) assessed, as represented by each object in the JSON STRUCTURE defined below. Each object should include the fields represented in the JSON STRUCTURE that are extracted from the text files. 
+One row per file: A separate line in an output CSV file for each text file (article) assessed, as represented by each object in the JSON STRUCTURE defined below. Each object should include the fields represented in the JSON STRUCTURE that are extracted from the text files. 
 
 Output columns for each text file:
 
-JSON STRUCTURE:
+JSON STRUCTURE that will be translated to CSV:
     [{
       "title": "Title of the article.",
       "authors": "Authors of the article.",
