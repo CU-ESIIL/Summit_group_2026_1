@@ -180,7 +180,7 @@ Long term:
 
 ![Team photo](assets/team/team_photo.jpg)
 
-*Team members and collaborators who contributed to this project.*
+*Bea, Dylan, and Rachel!*
 
 ## Findings at a glance 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
 
