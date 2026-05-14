@@ -31,7 +31,7 @@ examples/                         Examples of output CSV file expectations. Also
 
 ## Input Requirements
 
-Text files for extraction are located at /home/jovyan/data-store/Summit_group_2026_1/code/llm-agent-workspace/test
+Text files for extraction are located at /home/jovyan/data-store/home/shared/esiil/Innovation_Summit_2026/Group_1/extracted_text
 
 ---
 
